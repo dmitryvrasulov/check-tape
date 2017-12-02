@@ -1,4 +1,4 @@
-package ru.evotor.hackingman.checktape;
+package ru.evator.devman;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("ru.evotor.hackingman.checktape", appContext.getPackageName());
+        assertEquals("ru.evator.devman", appContext.getPackageName());
     }
 }

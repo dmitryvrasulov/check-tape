@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ru.evotor.hackingman.checktape">
+    package="ru.evator.devman">
 
     <application
         android:allowBackup="true"
@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
-        <meta-data android:name="app_uuid" android:value="239d8581-e2f8-44d3-8072-ee93f26db61a"/>
+        <meta-data android:name="app_uuid" android:value="1ebefbcc-aad5-4497-8fec-95e00f49615b"/>
 
         <activity android:name=".MainActivity">
             <intent-filter>
