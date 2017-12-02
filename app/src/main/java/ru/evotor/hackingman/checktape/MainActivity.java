@@ -1,4 +1,4 @@
-package ru.evotor.hackingman.checktape;
+package ru.evator.devman;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

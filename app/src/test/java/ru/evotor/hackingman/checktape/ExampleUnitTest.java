@@ -1,4 +1,4 @@
-package ru.evotor.hackingman.checktape;
+package ru.evator.devman;
 
 import org.junit.Test;
 

@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "ru.evotor.hackingman.checktape"
+        applicationId "ru.evator.devman"
         minSdkVersion 27
         targetSdkVersion 26
         versionCode 1
